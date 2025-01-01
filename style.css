@@ -1,4 +1,7 @@
-
+.container {
+    padding: 20px;
+    margin: 20px;
+  }
   
 :root{
     --cor0:#1EFCF9;
